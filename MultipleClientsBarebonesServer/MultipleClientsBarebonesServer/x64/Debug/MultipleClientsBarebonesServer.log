@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\visual studio projects\multipleclientsbarebonesserver\multipleclientsbarebonesserver\main.cpp(264): error C2065: 'SendColourToClient': undeclared identifier
+d:\visual studio projects\multipleclientsbarebonesserver\multipleclientsbarebonesserver\main.cpp(304): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio projects\multipleclientsbarebonesserver\multipleclientsbarebonesserver\main.cpp(313): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\visual studio projects\multipleclientsbarebonesserver\multipleclientsbarebonesserver\main.cpp(335): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\visual studio projects\multipleclientsbarebonesserver\multipleclientsbarebonesserver\main.cpp(362): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
