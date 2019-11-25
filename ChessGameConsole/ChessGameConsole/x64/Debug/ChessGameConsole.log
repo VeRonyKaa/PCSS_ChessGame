@@ -1,0 +1,6 @@
+﻿  ChessGameConsole.cpp
+c:\users\annen\desktop\pcss-miniproject-master\pcss-miniproject-master\chessgameconsole\chessgameconsole\chessgameconsole.cpp(43): warning C4101: 'buf': unreferenced local variable
+c:\users\annen\desktop\pcss-miniproject-master\pcss-miniproject-master\chessgameconsole\chessgameconsole\chessgameconsole.cpp(789): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Piece.cpp
+  Generating Code...
+  ChessGameConsole.vcxproj -> C:\Users\Annen\Desktop\PCSS-Miniproject-master\PCSS-Miniproject-master\ChessGameConsole\x64\Debug\ChessGameConsole.exe
